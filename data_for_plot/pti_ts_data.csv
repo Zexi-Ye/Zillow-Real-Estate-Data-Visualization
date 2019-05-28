@@ -1,0 +1,949 @@
+Time,Area,Price-to-income Index
+1979-03,United States,2.93
+1979-06,United States,2.96
+1979-09,United States,2.97
+1979-12,United States,2.97
+1980-03,United States,2.95
+1980-06,United States,2.95
+1980-09,United States,2.99
+1980-12,United States,2.94
+1981-03,United States,2.89
+1981-06,United States,2.9
+1981-09,United States,2.89
+1981-12,United States,2.83
+1982-03,United States,2.83
+1982-06,United States,2.83
+1982-09,United States,2.78
+1982-12,United States,2.79
+1983-03,United States,2.82
+1983-06,United States,2.83
+1983-09,United States,2.82
+1983-12,United States,2.79
+1984-03,United States,2.77
+1984-06,United States,2.74
+1984-09,United States,2.71
+1984-12,United States,2.7
+1985-03,United States,2.7
+1985-06,United States,2.72
+1985-09,United States,2.73
+1985-12,United States,2.72
+1986-03,United States,2.73
+1986-06,United States,2.75
+1986-09,United States,2.75
+1986-12,United States,2.77
+1987-03,United States,2.79
+1987-06,United States,2.8
+1987-09,United States,2.8
+1987-12,United States,2.79
+1988-03,United States,2.8
+1988-06,United States,2.83
+1988-09,United States,2.82
+1988-12,United States,2.8
+1989-03,United States,2.78
+1989-06,United States,2.77
+1989-09,United States,2.8
+1989-12,United States,2.8
+1990-03,United States,2.8
+1990-06,United States,2.78
+1990-09,United States,2.78
+1990-12,United States,2.76
+1991-03,United States,2.78
+1991-06,United States,2.81
+1991-09,United States,2.82
+1991-12,United States,2.85
+1992-03,United States,2.86
+1992-06,United States,2.84
+1992-09,United States,2.85
+1992-12,United States,2.85
+1993-03,United States,2.84
+1993-06,United States,2.86
+1993-09,United States,2.87
+1993-12,United States,2.87
+1994-03,United States,2.87
+1994-06,United States,2.86
+1994-09,United States,2.84
+1994-12,United States,2.79
+1995-03,United States,2.77
+1995-06,United States,2.77
+1995-09,United States,2.78
+1995-12,United States,2.79
+1996-03,United States,2.79
+1996-06,United States,2.76
+1996-09,United States,2.74
+1996-12,United States,2.73
+1997-03,United States,2.73
+1997-06,United States,2.72
+1997-09,United States,2.73
+1997-12,United States,2.74
+1998-03,United States,2.74
+1998-06,United States,2.75
+1998-09,United States,2.75
+1998-12,United States,2.75
+1999-03,United States,2.75
+1999-06,United States,2.76
+1999-09,United States,2.8
+1999-12,United States,2.87
+2000-03,United States,2.92
+2000-06,United States,2.96
+2000-09,United States,2.97
+2000-12,United States,3.0
+2001-03,United States,3.04
+2001-06,United States,3.09
+2001-09,United States,3.12
+2001-12,United States,3.17
+2002-03,United States,3.21
+2002-06,United States,3.24
+2002-09,United States,3.28
+2002-12,United States,3.33
+2003-03,United States,3.38
+2003-06,United States,3.43
+2003-09,United States,3.47
+2003-12,United States,3.53
+2004-03,United States,3.6
+2004-06,United States,3.67
+2004-09,United States,3.75
+2004-12,United States,3.79
+2005-03,United States,3.84
+2005-06,United States,3.91
+2005-09,United States,4.0
+2005-12,United States,4.05
+2006-03,United States,4.07
+2006-06,United States,4.08
+2006-09,United States,4.07
+2006-12,United States,4.05
+2007-03,United States,4.01
+2007-06,United States,3.95
+2007-09,United States,3.87
+2007-12,United States,3.8
+2008-03,United States,3.7
+2008-06,United States,3.55
+2008-09,United States,3.44
+2008-12,United States,3.36
+2009-03,United States,3.36
+2009-06,United States,3.31
+2009-09,United States,3.3
+2009-12,United States,3.28
+2010-03,United States,3.27
+2010-06,United States,3.22
+2010-09,United States,3.17
+2010-12,United States,3.12
+2011-03,United States,3.05
+2011-06,United States,3.0
+2011-09,United States,2.96
+2011-12,United States,2.95
+2012-03,United States,2.93
+2012-06,United States,2.94
+2012-09,United States,2.94
+2012-12,United States,2.93
+2013-03,United States,2.97
+2013-06,United States,3.02
+2013-09,United States,3.1
+2013-12,United States,3.13
+2014-03,United States,3.14
+2014-06,United States,3.15
+2014-09,United States,3.15
+2014-12,United States,3.15
+2015-03,United States,3.16
+2015-06,United States,3.17
+2015-09,United States,3.19
+2015-12,United States,3.2
+2016-03,United States,3.22
+2016-06,United States,3.25
+2016-09,United States,3.3
+2016-12,United States,3.33
+2017-03,United States,3.36
+2017-06,United States,3.4
+2017-09,United States,3.44
+2017-12,United States,3.48
+2018-03,United States,3.54
+2018-06,United States,3.58
+1979-03,"New York, NY",2.94
+1979-06,"New York, NY",2.97
+1979-09,"New York, NY",2.98
+1979-12,"New York, NY",2.97
+1980-03,"New York, NY",3.02
+1980-06,"New York, NY",3.01
+1980-09,"New York, NY",3.08
+1980-12,"New York, NY",3.0
+1981-03,"New York, NY",3.04
+1981-06,"New York, NY",3.09
+1981-09,"New York, NY",3.15
+1981-12,"New York, NY",3.04
+1982-03,"New York, NY",2.94
+1982-06,"New York, NY",3.03
+1982-09,"New York, NY",2.98
+1982-12,"New York, NY",3.0
+1983-03,"New York, NY",3.02
+1983-06,"New York, NY",3.05
+1983-09,"New York, NY",3.13
+1983-12,"New York, NY",3.19
+1984-03,"New York, NY",3.23
+1984-06,"New York, NY",3.33
+1984-09,"New York, NY",3.4
+1984-12,"New York, NY",3.44
+1985-03,"New York, NY",3.51
+1985-06,"New York, NY",3.61
+1985-09,"New York, NY",3.74
+1985-12,"New York, NY",3.84
+1986-03,"New York, NY",3.95
+1986-06,"New York, NY",4.11
+1986-09,"New York, NY",4.26
+1986-12,"New York, NY",4.39
+1987-03,"New York, NY",4.53
+1987-06,"New York, NY",4.68
+1987-09,"New York, NY",4.77
+1987-12,"New York, NY",4.82
+1988-03,"New York, NY",4.8
+1988-06,"New York, NY",4.83
+1988-09,"New York, NY",4.73
+1988-12,"New York, NY",4.66
+1989-03,"New York, NY",4.57
+1989-06,"New York, NY",4.45
+1989-09,"New York, NY",4.41
+1989-12,"New York, NY",4.41
+1990-03,"New York, NY",4.34
+1990-06,"New York, NY",4.23
+1990-09,"New York, NY",4.13
+1990-12,"New York, NY",3.99
+1991-03,"New York, NY",3.96
+1991-06,"New York, NY",3.93
+1991-09,"New York, NY",3.93
+1991-12,"New York, NY",3.95
+1992-03,"New York, NY",3.98
+1992-06,"New York, NY",3.95
+1992-09,"New York, NY",3.94
+1992-12,"New York, NY",3.92
+1993-03,"New York, NY",3.91
+1993-06,"New York, NY",3.93
+1993-09,"New York, NY",3.94
+1993-12,"New York, NY",3.91
+1994-03,"New York, NY",3.91
+1994-06,"New York, NY",3.86
+1994-09,"New York, NY",3.84
+1994-12,"New York, NY",3.75
+1995-03,"New York, NY",3.71
+1995-06,"New York, NY",3.74
+1995-09,"New York, NY",3.77
+1995-12,"New York, NY",3.77
+1996-03,"New York, NY",3.79
+1996-06,"New York, NY",3.74
+1996-09,"New York, NY",3.69
+1996-12,"New York, NY",3.65
+1997-03,"New York, NY",3.64
+1997-06,"New York, NY",3.62
+1997-09,"New York, NY",3.6
+1997-12,"New York, NY",3.6
+1998-03,"New York, NY",3.61
+1998-06,"New York, NY",3.61
+1998-09,"New York, NY",3.61
+1998-12,"New York, NY",3.6
+1999-03,"New York, NY",3.61
+1999-06,"New York, NY",3.64
+1999-09,"New York, NY",3.71
+1999-12,"New York, NY",3.83
+2000-03,"New York, NY",3.95
+2000-06,"New York, NY",4.06
+2000-09,"New York, NY",4.15
+2000-12,"New York, NY",4.25
+2001-03,"New York, NY",4.37
+2001-06,"New York, NY",4.51
+2001-09,"New York, NY",4.66
+2001-12,"New York, NY",4.83
+2002-03,"New York, NY",4.98
+2002-06,"New York, NY",5.14
+2002-09,"New York, NY",5.32
+2002-12,"New York, NY",5.53
+2003-03,"New York, NY",5.79
+2003-06,"New York, NY",5.99
+2003-09,"New York, NY",6.14
+2003-12,"New York, NY",6.24
+2004-03,"New York, NY",6.37
+2004-06,"New York, NY",6.53
+2004-09,"New York, NY",6.68
+2004-12,"New York, NY",6.77
+2005-03,"New York, NY",6.88
+2005-06,"New York, NY",7.01
+2005-09,"New York, NY",7.15
+2005-12,"New York, NY",7.22
+2006-03,"New York, NY",7.21
+2006-06,"New York, NY",7.16
+2006-09,"New York, NY",7.08
+2006-12,"New York, NY",6.97
+2007-03,"New York, NY",6.85
+2007-06,"New York, NY",6.73
+2007-09,"New York, NY",6.62
+2007-12,"New York, NY",6.55
+2008-03,"New York, NY",6.43
+2008-06,"New York, NY",6.26
+2008-09,"New York, NY",6.04
+2008-12,"New York, NY",5.87
+2009-03,"New York, NY",5.79
+2009-06,"New York, NY",5.62
+2009-09,"New York, NY",5.59
+2009-12,"New York, NY",5.61
+2010-03,"New York, NY",5.67
+2010-06,"New York, NY",5.64
+2010-09,"New York, NY",5.61
+2010-12,"New York, NY",5.55
+2011-03,"New York, NY",5.44
+2011-06,"New York, NY",5.39
+2011-09,"New York, NY",5.32
+2011-12,"New York, NY",5.28
+2012-03,"New York, NY",5.22
+2012-06,"New York, NY",5.2
+2012-09,"New York, NY",5.14
+2012-12,"New York, NY",5.08
+2013-03,"New York, NY",5.13
+2013-06,"New York, NY",5.17
+2013-09,"New York, NY",5.28
+2013-12,"New York, NY",5.31
+2014-03,"New York, NY",5.31
+2014-06,"New York, NY",5.31
+2014-09,"New York, NY",5.33
+2014-12,"New York, NY",5.32
+2015-03,"New York, NY",5.31
+2015-06,"New York, NY",5.3
+2015-09,"New York, NY",5.32
+2015-12,"New York, NY",5.3
+2016-03,"New York, NY",5.3
+2016-06,"New York, NY",5.29
+2016-09,"New York, NY",5.31
+2016-12,"New York, NY",5.34
+2017-03,"New York, NY",5.37
+2017-06,"New York, NY",5.47
+2017-09,"New York, NY",5.54
+2017-12,"New York, NY",5.59
+2018-03,"New York, NY",5.66
+2018-06,"New York, NY",5.69
+1979-03,"Augusta, GA",
+1979-06,"Augusta, GA",
+1979-09,"Augusta, GA",
+1979-12,"Augusta, GA",2.67
+1980-03,"Augusta, GA",2.81
+1980-06,"Augusta, GA",3.2
+1980-09,"Augusta, GA",2.84
+1980-12,"Augusta, GA",2.91
+1981-03,"Augusta, GA",2.96
+1981-06,"Augusta, GA",2.71
+1981-09,"Augusta, GA",2.81
+1981-12,"Augusta, GA",3.01
+1982-03,"Augusta, GA",3.31
+1982-06,"Augusta, GA",2.73
+1982-09,"Augusta, GA",2.78
+1982-12,"Augusta, GA",2.73
+1983-03,"Augusta, GA",2.82
+1983-06,"Augusta, GA",2.73
+1983-09,"Augusta, GA",2.8
+1983-12,"Augusta, GA",2.72
+1984-03,"Augusta, GA",2.76
+1984-06,"Augusta, GA",2.74
+1984-09,"Augusta, GA",2.56
+1984-12,"Augusta, GA",2.69
+1985-03,"Augusta, GA",2.65
+1985-06,"Augusta, GA",2.62
+1985-09,"Augusta, GA",2.62
+1985-12,"Augusta, GA",2.68
+1986-03,"Augusta, GA",2.63
+1986-06,"Augusta, GA",2.63
+1986-09,"Augusta, GA",2.64
+1986-12,"Augusta, GA",2.63
+1987-03,"Augusta, GA",2.62
+1987-06,"Augusta, GA",2.61
+1987-09,"Augusta, GA",2.55
+1987-12,"Augusta, GA",2.54
+1988-03,"Augusta, GA",2.48
+1988-06,"Augusta, GA",2.44
+1988-09,"Augusta, GA",2.37
+1988-12,"Augusta, GA",2.36
+1989-03,"Augusta, GA",2.29
+1989-06,"Augusta, GA",2.29
+1989-09,"Augusta, GA",2.32
+1989-12,"Augusta, GA",2.28
+1990-03,"Augusta, GA",2.26
+1990-06,"Augusta, GA",2.23
+1990-09,"Augusta, GA",2.24
+1990-12,"Augusta, GA",2.19
+1991-03,"Augusta, GA",2.22
+1991-06,"Augusta, GA",2.21
+1991-09,"Augusta, GA",2.23
+1991-12,"Augusta, GA",2.26
+1992-03,"Augusta, GA",2.28
+1992-06,"Augusta, GA",2.26
+1992-09,"Augusta, GA",2.29
+1992-12,"Augusta, GA",2.28
+1993-03,"Augusta, GA",2.28
+1993-06,"Augusta, GA",2.28
+1993-09,"Augusta, GA",2.29
+1993-12,"Augusta, GA",2.29
+1994-03,"Augusta, GA",2.28
+1994-06,"Augusta, GA",2.28
+1994-09,"Augusta, GA",2.24
+1994-12,"Augusta, GA",2.22
+1995-03,"Augusta, GA",2.15
+1995-06,"Augusta, GA",2.21
+1995-09,"Augusta, GA",2.22
+1995-12,"Augusta, GA",2.24
+1996-03,"Augusta, GA",2.26
+1996-06,"Augusta, GA",2.25
+1996-09,"Augusta, GA",2.23
+1996-12,"Augusta, GA",2.22
+1997-03,"Augusta, GA",2.22
+1997-06,"Augusta, GA",2.21
+1997-09,"Augusta, GA",2.21
+1997-12,"Augusta, GA",2.21
+1998-03,"Augusta, GA",2.21
+1998-06,"Augusta, GA",2.21
+1998-09,"Augusta, GA",2.2
+1998-12,"Augusta, GA",2.22
+1999-03,"Augusta, GA",2.25
+1999-06,"Augusta, GA",2.27
+1999-09,"Augusta, GA",2.28
+1999-12,"Augusta, GA",2.28
+2000-03,"Augusta, GA",2.26
+2000-06,"Augusta, GA",2.23
+2000-09,"Augusta, GA",2.21
+2000-12,"Augusta, GA",2.22
+2001-03,"Augusta, GA",2.26
+2001-06,"Augusta, GA",2.3
+2001-09,"Augusta, GA",2.31
+2001-12,"Augusta, GA",2.32
+2002-03,"Augusta, GA",2.33
+2002-06,"Augusta, GA",2.32
+2002-09,"Augusta, GA",2.32
+2002-12,"Augusta, GA",2.34
+2003-03,"Augusta, GA",2.35
+2003-06,"Augusta, GA",2.36
+2003-09,"Augusta, GA",2.36
+2003-12,"Augusta, GA",2.38
+2004-03,"Augusta, GA",2.41
+2004-06,"Augusta, GA",2.44
+2004-09,"Augusta, GA",2.57
+2004-12,"Augusta, GA",2.59
+2005-03,"Augusta, GA",2.53
+2005-06,"Augusta, GA",2.55
+2005-09,"Augusta, GA",2.6
+2005-12,"Augusta, GA",2.65
+2006-03,"Augusta, GA",2.69
+2006-06,"Augusta, GA",2.75
+2006-09,"Augusta, GA",2.79
+2006-12,"Augusta, GA",2.82
+2007-03,"Augusta, GA",2.85
+2007-06,"Augusta, GA",2.88
+2007-09,"Augusta, GA",2.88
+2007-12,"Augusta, GA",2.89
+2008-03,"Augusta, GA",2.93
+2008-06,"Augusta, GA",2.91
+2008-09,"Augusta, GA",2.85
+2008-12,"Augusta, GA",2.8
+2009-03,"Augusta, GA",2.83
+2009-06,"Augusta, GA",2.8
+2009-09,"Augusta, GA",2.79
+2009-12,"Augusta, GA",2.8
+2010-03,"Augusta, GA",2.82
+2010-06,"Augusta, GA",2.77
+2010-09,"Augusta, GA",2.76
+2010-12,"Augusta, GA",2.74
+2011-03,"Augusta, GA",2.66
+2011-06,"Augusta, GA",2.65
+2011-09,"Augusta, GA",2.62
+2011-12,"Augusta, GA",2.58
+2012-03,"Augusta, GA",2.52
+2012-06,"Augusta, GA",2.51
+2012-09,"Augusta, GA",2.49
+2012-12,"Augusta, GA",2.47
+2013-03,"Augusta, GA",2.43
+2013-06,"Augusta, GA",2.42
+2013-09,"Augusta, GA",2.45
+2013-12,"Augusta, GA",2.49
+2014-03,"Augusta, GA",2.5
+2014-06,"Augusta, GA",2.52
+2014-09,"Augusta, GA",2.51
+2014-12,"Augusta, GA",2.52
+2015-03,"Augusta, GA",2.52
+2015-06,"Augusta, GA",2.52
+2015-09,"Augusta, GA",2.55
+2015-12,"Augusta, GA",2.56
+2016-03,"Augusta, GA",2.62
+2016-06,"Augusta, GA",2.69
+2016-09,"Augusta, GA",2.72
+2016-12,"Augusta, GA",2.74
+2017-03,"Augusta, GA",2.76
+2017-06,"Augusta, GA",2.76
+2017-09,"Augusta, GA",2.78
+2017-12,"Augusta, GA",2.78
+2018-03,"Augusta, GA",2.84
+2018-06,"Augusta, GA",2.85
+1979-03,"Yakima, WA",
+1979-06,"Yakima, WA",
+1979-09,"Yakima, WA",
+1979-12,"Yakima, WA",
+1980-03,"Yakima, WA",
+1980-06,"Yakima, WA",
+1980-09,"Yakima, WA",
+1980-12,"Yakima, WA",
+1981-03,"Yakima, WA",
+1981-06,"Yakima, WA",
+1981-09,"Yakima, WA",
+1981-12,"Yakima, WA",
+1982-03,"Yakima, WA",
+1982-06,"Yakima, WA",
+1982-09,"Yakima, WA",
+1982-12,"Yakima, WA",
+1983-03,"Yakima, WA",
+1983-06,"Yakima, WA",
+1983-09,"Yakima, WA",
+1983-12,"Yakima, WA",
+1984-03,"Yakima, WA",
+1984-06,"Yakima, WA",
+1984-09,"Yakima, WA",
+1984-12,"Yakima, WA",
+1985-03,"Yakima, WA",
+1985-06,"Yakima, WA",
+1985-09,"Yakima, WA",
+1985-12,"Yakima, WA",
+1986-03,"Yakima, WA",
+1986-06,"Yakima, WA",2.37
+1986-09,"Yakima, WA",2.46
+1986-12,"Yakima, WA",2.38
+1987-03,"Yakima, WA",2.48
+1987-06,"Yakima, WA",2.43
+1987-09,"Yakima, WA",2.4
+1987-12,"Yakima, WA",2.28
+1988-03,"Yakima, WA",2.25
+1988-06,"Yakima, WA",2.22
+1988-09,"Yakima, WA",2.18
+1988-12,"Yakima, WA",2.13
+1989-03,"Yakima, WA",2.22
+1989-06,"Yakima, WA",2.0
+1989-09,"Yakima, WA",2.1
+1989-12,"Yakima, WA",2.08
+1990-03,"Yakima, WA",2.15
+1990-06,"Yakima, WA",2.18
+1990-09,"Yakima, WA",2.16
+1990-12,"Yakima, WA",2.23
+1991-03,"Yakima, WA",2.19
+1991-06,"Yakima, WA",2.24
+1991-09,"Yakima, WA",2.26
+1991-12,"Yakima, WA",2.25
+1992-03,"Yakima, WA",2.29
+1992-06,"Yakima, WA",2.37
+1992-09,"Yakima, WA",2.42
+1992-12,"Yakima, WA",2.39
+1993-03,"Yakima, WA",2.43
+1993-06,"Yakima, WA",2.46
+1993-09,"Yakima, WA",2.59
+1993-12,"Yakima, WA",2.63
+1994-03,"Yakima, WA",2.7
+1994-06,"Yakima, WA",2.78
+1994-09,"Yakima, WA",2.88
+1994-12,"Yakima, WA",2.8
+1995-03,"Yakima, WA",2.82
+1995-06,"Yakima, WA",2.83
+1995-09,"Yakima, WA",2.86
+1995-12,"Yakima, WA",2.91
+1996-03,"Yakima, WA",2.93
+1996-06,"Yakima, WA",3.03
+1996-09,"Yakima, WA",3.09
+1996-12,"Yakima, WA",3.08
+1997-03,"Yakima, WA",3.05
+1997-06,"Yakima, WA",3.0
+1997-09,"Yakima, WA",2.98
+1997-12,"Yakima, WA",3.0
+1998-03,"Yakima, WA",3.01
+1998-06,"Yakima, WA",2.98
+1998-09,"Yakima, WA",2.92
+1998-12,"Yakima, WA",2.87
+1999-03,"Yakima, WA",2.81
+1999-06,"Yakima, WA",2.76
+1999-09,"Yakima, WA",2.75
+1999-12,"Yakima, WA",2.79
+2000-03,"Yakima, WA",2.81
+2000-06,"Yakima, WA",2.81
+2000-09,"Yakima, WA",2.8
+2000-12,"Yakima, WA",2.8
+2001-03,"Yakima, WA",2.81
+2001-06,"Yakima, WA",2.81
+2001-09,"Yakima, WA",2.83
+2001-12,"Yakima, WA",2.85
+2002-03,"Yakima, WA",2.87
+2002-06,"Yakima, WA",2.89
+2002-09,"Yakima, WA",2.93
+2002-12,"Yakima, WA",2.97
+2003-03,"Yakima, WA",2.98
+2003-06,"Yakima, WA",2.97
+2003-09,"Yakima, WA",3.01
+2003-12,"Yakima, WA",3.09
+2004-03,"Yakima, WA",3.17
+2004-06,"Yakima, WA",3.26
+2004-09,"Yakima, WA",3.3
+2004-12,"Yakima, WA",3.2
+2005-03,"Yakima, WA",3.18
+2005-06,"Yakima, WA",3.17
+2005-09,"Yakima, WA",3.29
+2005-12,"Yakima, WA",3.31
+2006-03,"Yakima, WA",3.31
+2006-06,"Yakima, WA",3.3
+2006-09,"Yakima, WA",3.34
+2006-12,"Yakima, WA",3.37
+2007-03,"Yakima, WA",3.35
+2007-06,"Yakima, WA",3.31
+2007-09,"Yakima, WA",3.29
+2007-12,"Yakima, WA",3.29
+2008-03,"Yakima, WA",3.33
+2008-06,"Yakima, WA",3.36
+2008-09,"Yakima, WA",3.32
+2008-12,"Yakima, WA",3.26
+2009-03,"Yakima, WA",3.28
+2009-06,"Yakima, WA",3.27
+2009-09,"Yakima, WA",3.3
+2009-12,"Yakima, WA",3.36
+2010-03,"Yakima, WA",3.4
+2010-06,"Yakima, WA",3.41
+2010-09,"Yakima, WA",3.4
+2010-12,"Yakima, WA",3.34
+2011-03,"Yakima, WA",3.23
+2011-06,"Yakima, WA",3.18
+2011-09,"Yakima, WA",3.15
+2011-12,"Yakima, WA",3.15
+2012-03,"Yakima, WA",3.14
+2012-06,"Yakima, WA",3.13
+2012-09,"Yakima, WA",3.14
+2012-12,"Yakima, WA",3.12
+2013-03,"Yakima, WA",3.13
+2013-06,"Yakima, WA",3.1
+2013-09,"Yakima, WA",3.14
+2013-12,"Yakima, WA",3.17
+2014-03,"Yakima, WA",3.14
+2014-06,"Yakima, WA",3.05
+2014-09,"Yakima, WA",2.96
+2014-12,"Yakima, WA",2.98
+2015-03,"Yakima, WA",3.07
+2015-06,"Yakima, WA",3.31
+2015-09,"Yakima, WA",3.47
+2015-12,"Yakima, WA",3.49
+2016-03,"Yakima, WA",3.53
+2016-06,"Yakima, WA",3.5
+2016-09,"Yakima, WA",3.45
+2016-12,"Yakima, WA",3.48
+2017-03,"Yakima, WA",3.57
+2017-06,"Yakima, WA",3.63
+2017-09,"Yakima, WA",3.75
+2017-12,"Yakima, WA",3.77
+2018-03,"Yakima, WA",3.73
+2018-06,"Yakima, WA",3.74
+1979-03,"Auburn, AL",
+1979-06,"Auburn, AL",
+1979-09,"Auburn, AL",
+1979-12,"Auburn, AL",
+1980-03,"Auburn, AL",
+1980-06,"Auburn, AL",
+1980-09,"Auburn, AL",
+1980-12,"Auburn, AL",
+1981-03,"Auburn, AL",
+1981-06,"Auburn, AL",
+1981-09,"Auburn, AL",
+1981-12,"Auburn, AL",
+1982-03,"Auburn, AL",
+1982-06,"Auburn, AL",
+1982-09,"Auburn, AL",
+1982-12,"Auburn, AL",
+1983-03,"Auburn, AL",
+1983-06,"Auburn, AL",
+1983-09,"Auburn, AL",
+1983-12,"Auburn, AL",
+1984-03,"Auburn, AL",
+1984-06,"Auburn, AL",
+1984-09,"Auburn, AL",
+1984-12,"Auburn, AL",
+1985-03,"Auburn, AL",
+1985-06,"Auburn, AL",
+1985-09,"Auburn, AL",
+1985-12,"Auburn, AL",
+1986-03,"Auburn, AL",
+1986-06,"Auburn, AL",
+1986-09,"Auburn, AL",
+1986-12,"Auburn, AL",
+1987-03,"Auburn, AL",
+1987-06,"Auburn, AL",
+1987-09,"Auburn, AL",
+1987-12,"Auburn, AL",3.84
+1988-03,"Auburn, AL",3.45
+1988-06,"Auburn, AL",3.48
+1988-09,"Auburn, AL",3.62
+1988-12,"Auburn, AL",3.31
+1989-03,"Auburn, AL",3.35
+1989-06,"Auburn, AL",3.39
+1989-09,"Auburn, AL",3.47
+1989-12,"Auburn, AL",3.34
+1990-03,"Auburn, AL",3.43
+1990-06,"Auburn, AL",3.52
+1990-09,"Auburn, AL",3.32
+1990-12,"Auburn, AL",3.37
+1991-03,"Auburn, AL",3.34
+1991-06,"Auburn, AL",3.34
+1991-09,"Auburn, AL",3.34
+1991-12,"Auburn, AL",3.29
+1992-03,"Auburn, AL",3.27
+1992-06,"Auburn, AL",3.35
+1992-09,"Auburn, AL",3.35
+1992-12,"Auburn, AL",3.36
+1993-03,"Auburn, AL",3.26
+1993-06,"Auburn, AL",3.31
+1993-09,"Auburn, AL",3.31
+1993-12,"Auburn, AL",3.32
+1994-03,"Auburn, AL",3.29
+1994-06,"Auburn, AL",3.34
+1994-09,"Auburn, AL",3.3
+1994-12,"Auburn, AL",3.38
+1995-03,"Auburn, AL",3.28
+1995-06,"Auburn, AL",3.34
+1995-09,"Auburn, AL",3.39
+1995-12,"Auburn, AL",3.41
+1996-03,"Auburn, AL",3.39
+1996-06,"Auburn, AL",3.36
+1996-09,"Auburn, AL",3.35
+1996-12,"Auburn, AL",3.36
+1997-03,"Auburn, AL",3.34
+1997-06,"Auburn, AL",3.27
+1997-09,"Auburn, AL",3.2
+1997-12,"Auburn, AL",3.16
+1998-03,"Auburn, AL",3.14
+1998-06,"Auburn, AL",3.17
+1998-09,"Auburn, AL",3.24
+1998-12,"Auburn, AL",3.34
+1999-03,"Auburn, AL",3.45
+1999-06,"Auburn, AL",3.55
+1999-09,"Auburn, AL",3.6
+1999-12,"Auburn, AL",3.62
+2000-03,"Auburn, AL",3.6
+2000-06,"Auburn, AL",3.61
+2000-09,"Auburn, AL",3.65
+2000-12,"Auburn, AL",3.73
+2001-03,"Auburn, AL",3.83
+2001-06,"Auburn, AL",3.92
+2001-09,"Auburn, AL",4.0
+2001-12,"Auburn, AL",4.06
+2002-03,"Auburn, AL",4.12
+2002-06,"Auburn, AL",4.15
+2002-09,"Auburn, AL",4.18
+2002-12,"Auburn, AL",4.21
+2003-03,"Auburn, AL",4.24
+2003-06,"Auburn, AL",4.23
+2003-09,"Auburn, AL",4.24
+2003-12,"Auburn, AL",4.26
+2004-03,"Auburn, AL",4.18
+2004-06,"Auburn, AL",4.15
+2004-09,"Auburn, AL",4.2
+2004-12,"Auburn, AL",4.27
+2005-03,"Auburn, AL",4.39
+2005-06,"Auburn, AL",4.5
+2005-09,"Auburn, AL",4.59
+2005-12,"Auburn, AL",4.62
+2006-03,"Auburn, AL",4.61
+2006-06,"Auburn, AL",4.57
+2006-09,"Auburn, AL",4.57
+2006-12,"Auburn, AL",4.54
+2007-03,"Auburn, AL",4.49
+2007-06,"Auburn, AL",4.4
+2007-09,"Auburn, AL",4.33
+2007-12,"Auburn, AL",4.31
+2008-03,"Auburn, AL",4.43
+2008-06,"Auburn, AL",4.53
+2008-09,"Auburn, AL",4.5
+2008-12,"Auburn, AL",4.42
+2009-03,"Auburn, AL",4.41
+2009-06,"Auburn, AL",4.32
+2009-09,"Auburn, AL",4.22
+2009-12,"Auburn, AL",4.17
+2010-03,"Auburn, AL",4.13
+2010-06,"Auburn, AL",4.06
+2010-09,"Auburn, AL",4.01
+2010-12,"Auburn, AL",3.98
+2011-03,"Auburn, AL",3.92
+2011-06,"Auburn, AL",3.91
+2011-09,"Auburn, AL",3.88
+2011-12,"Auburn, AL",3.79
+2012-03,"Auburn, AL",3.7
+2012-06,"Auburn, AL",3.63
+2012-09,"Auburn, AL",3.61
+2012-12,"Auburn, AL",3.59
+2013-03,"Auburn, AL",3.6
+2013-06,"Auburn, AL",3.62
+2013-09,"Auburn, AL",3.64
+2013-12,"Auburn, AL",3.65
+2014-03,"Auburn, AL",3.67
+2014-06,"Auburn, AL",3.62
+2014-09,"Auburn, AL",3.53
+2014-12,"Auburn, AL",3.51
+2015-03,"Auburn, AL",3.51
+2015-06,"Auburn, AL",3.5
+2015-09,"Auburn, AL",3.59
+2015-12,"Auburn, AL",3.59
+2016-03,"Auburn, AL",3.59
+2016-06,"Auburn, AL",3.51
+2016-09,"Auburn, AL",3.48
+2016-12,"Auburn, AL",3.49
+2017-03,"Auburn, AL",3.5
+2017-06,"Auburn, AL",3.56
+2017-09,"Auburn, AL",3.59
+2017-12,"Auburn, AL",3.59
+2018-03,"Auburn, AL",3.62
+2018-06,"Auburn, AL",3.63
+1979-03,"Carson City, NV",
+1979-06,"Carson City, NV",
+1979-09,"Carson City, NV",
+1979-12,"Carson City, NV",
+1980-03,"Carson City, NV",
+1980-06,"Carson City, NV",
+1980-09,"Carson City, NV",
+1980-12,"Carson City, NV",
+1981-03,"Carson City, NV",
+1981-06,"Carson City, NV",
+1981-09,"Carson City, NV",
+1981-12,"Carson City, NV",
+1982-03,"Carson City, NV",
+1982-06,"Carson City, NV",
+1982-09,"Carson City, NV",
+1982-12,"Carson City, NV",
+1983-03,"Carson City, NV",
+1983-06,"Carson City, NV",
+1983-09,"Carson City, NV",
+1983-12,"Carson City, NV",
+1984-03,"Carson City, NV",
+1984-06,"Carson City, NV",
+1984-09,"Carson City, NV",
+1984-12,"Carson City, NV",
+1985-03,"Carson City, NV",
+1985-06,"Carson City, NV",
+1985-09,"Carson City, NV",
+1985-12,"Carson City, NV",
+1986-03,"Carson City, NV",
+1986-06,"Carson City, NV",
+1986-09,"Carson City, NV",
+1986-12,"Carson City, NV",
+1987-03,"Carson City, NV",
+1987-06,"Carson City, NV",
+1987-09,"Carson City, NV",
+1987-12,"Carson City, NV",2.9
+1988-03,"Carson City, NV",2.81
+1988-06,"Carson City, NV",3.0
+1988-09,"Carson City, NV",2.91
+1988-12,"Carson City, NV",2.8
+1989-03,"Carson City, NV",2.84
+1989-06,"Carson City, NV",2.81
+1989-09,"Carson City, NV",2.95
+1989-12,"Carson City, NV",3.01
+1990-03,"Carson City, NV",3.01
+1990-06,"Carson City, NV",3.02
+1990-09,"Carson City, NV",3.06
+1990-12,"Carson City, NV",3.15
+1991-03,"Carson City, NV",3.24
+1991-06,"Carson City, NV",3.22
+1991-09,"Carson City, NV",3.24
+1991-12,"Carson City, NV",3.35
+1992-03,"Carson City, NV",3.42
+1992-06,"Carson City, NV",3.42
+1992-09,"Carson City, NV",3.48
+1992-12,"Carson City, NV",3.48
+1993-03,"Carson City, NV",3.4
+1993-06,"Carson City, NV",3.47
+1993-09,"Carson City, NV",3.55
+1993-12,"Carson City, NV",3.57
+1994-03,"Carson City, NV",3.55
+1994-06,"Carson City, NV",3.55
+1994-09,"Carson City, NV",3.5
+1994-12,"Carson City, NV",3.49
+1995-03,"Carson City, NV",3.48
+1995-06,"Carson City, NV",3.56
+1995-09,"Carson City, NV",3.57
+1995-12,"Carson City, NV",3.57
+1996-03,"Carson City, NV",3.59
+1996-06,"Carson City, NV",3.55
+1996-09,"Carson City, NV",3.51
+1996-12,"Carson City, NV",3.49
+1997-03,"Carson City, NV",3.48
+1997-06,"Carson City, NV",3.47
+1997-09,"Carson City, NV",3.44
+1997-12,"Carson City, NV",3.41
+1998-03,"Carson City, NV",3.36
+1998-06,"Carson City, NV",3.31
+1998-09,"Carson City, NV",3.27
+1998-12,"Carson City, NV",3.26
+1999-03,"Carson City, NV",3.23
+1999-06,"Carson City, NV",3.19
+1999-09,"Carson City, NV",3.16
+1999-12,"Carson City, NV",3.17
+2000-03,"Carson City, NV",3.18
+2000-06,"Carson City, NV",3.18
+2000-09,"Carson City, NV",3.21
+2000-12,"Carson City, NV",3.3
+2001-03,"Carson City, NV",3.4
+2001-06,"Carson City, NV",3.48
+2001-09,"Carson City, NV",3.52
+2001-12,"Carson City, NV",3.59
+2002-03,"Carson City, NV",3.69
+2002-06,"Carson City, NV",3.8
+2002-09,"Carson City, NV",3.92
+2002-12,"Carson City, NV",4.08
+2003-03,"Carson City, NV",4.25
+2003-06,"Carson City, NV",4.37
+2003-09,"Carson City, NV",4.45
+2003-12,"Carson City, NV",4.51
+2004-03,"Carson City, NV",4.66
+2004-06,"Carson City, NV",5.0
+2004-09,"Carson City, NV",5.45
+2004-12,"Carson City, NV",5.84
+2005-03,"Carson City, NV",6.18
+2005-06,"Carson City, NV",6.42
+2005-09,"Carson City, NV",6.59
+2005-12,"Carson City, NV",6.64
+2006-03,"Carson City, NV",6.6
+2006-06,"Carson City, NV",6.47
+2006-09,"Carson City, NV",6.29
+2006-12,"Carson City, NV",6.16
+2007-03,"Carson City, NV",6.06
+2007-06,"Carson City, NV",5.91
+2007-09,"Carson City, NV",5.73
+2007-12,"Carson City, NV",5.46
+2008-03,"Carson City, NV",5.18
+2008-06,"Carson City, NV",4.81
+2008-09,"Carson City, NV",4.55
+2008-12,"Carson City, NV",4.34
+2009-03,"Carson City, NV",4.21
+2009-06,"Carson City, NV",4.03
+2009-09,"Carson City, NV",3.89
+2009-12,"Carson City, NV",3.79
+2010-03,"Carson City, NV",3.69
+2010-06,"Carson City, NV",3.52
+2010-09,"Carson City, NV",3.4
+2010-12,"Carson City, NV",3.28
+2011-03,"Carson City, NV",3.11
+2011-06,"Carson City, NV",3.05
+2011-09,"Carson City, NV",3.02
+2011-12,"Carson City, NV",2.98
+2012-03,"Carson City, NV",2.99
+2012-06,"Carson City, NV",3.01
+2012-09,"Carson City, NV",3.08
+2012-12,"Carson City, NV",3.17
+2013-03,"Carson City, NV",3.41
+2013-06,"Carson City, NV",3.66
+2013-09,"Carson City, NV",3.77
+2013-12,"Carson City, NV",3.91
+2014-03,"Carson City, NV",3.99
+2014-06,"Carson City, NV",4.12
+2014-09,"Carson City, NV",4.34
+2014-12,"Carson City, NV",4.47
+2015-03,"Carson City, NV",4.52
+2015-06,"Carson City, NV",4.66
+2015-09,"Carson City, NV",4.73
+2015-12,"Carson City, NV",4.82
+2016-03,"Carson City, NV",4.92
+2016-06,"Carson City, NV",4.93
+2016-09,"Carson City, NV",5.07
+2016-12,"Carson City, NV",5.25
+2017-03,"Carson City, NV",5.4
+2017-06,"Carson City, NV",5.42
+2017-09,"Carson City, NV",5.49
+2017-12,"Carson City, NV",5.5
+2018-03,"Carson City, NV",5.57
+2018-06,"Carson City, NV",5.76
